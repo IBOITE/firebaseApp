@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643629963478",
+    "project_id": "testapp-f9781",
+    "storage_bucket": "testapp-f9781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643629963478:android:f358e27580c0185b0cd177",
+        "android_client_info": {
+          "package_name": "com.ibo.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643629963478-ujlvsg6hrgssrmhv9lhv7m5m0f36k25h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQSR191rA3tVCS04w1FKAH3PD4qggi_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643629963478-ujlvsg6hrgssrmhv9lhv7m5m0f36k25h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
